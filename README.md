@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on microservices and data processing at BNC
 <!--
 **CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

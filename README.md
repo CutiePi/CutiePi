@@ -1,5 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently working on microservices and data processing at BNC
+👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
+
+Full stack developer on our two main projects
+
+- [Solargraf](https://www.solargraf.com/) 🌞
+- [Roofgraf](https://www.roofgraf.com/) 🏠
+
+✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
 <!--
 **CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,10 @@
 ### Hi there 👋
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
-Full stack developer on our two main projects
+Full stack developer on our two main projects (currently only on roofgraf)
 
-- [Solargraf](https://www.solargraf.com/) 🌞
 - [Roofgraf](https://www.roofgraf.com/) 🏠
+- [Solargraf](https://www.solargraf.com/) 🌞
 
 ✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
 <!--

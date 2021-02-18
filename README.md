@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
-Full stack developer on our two main projects (currently only on roofgraf)
+I am a full stack developer on our two main projects (currently only on roofgraf)
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞
 
 ✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
-<!--
-**CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+⚡ Aside coding I love:
+- ping-pong 🏓
+- shooter games 🔫
+- snowboard 🏂
+- hiking ⛰
+<!--**CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

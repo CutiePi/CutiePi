@@ -1,14 +1,14 @@
-### Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
+## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
-I am a full stack developer on our two main projects (currently only on roofgraf)
+### I am a full stack developer on our two main projects (currently only on roofgraf)
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞
 
-✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
+### ✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
 
-⚡ Aside coding I love:
+### Aside coding I love:
 - ping-pong 🏓
 - shooter games 🔫
 - snowboard 🏂

@@ -4,7 +4,7 @@
 
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
-### I am a full stack developer on our two main projects (currently only on roofgraf)
+### I am a full stack developer on our two main projects
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞

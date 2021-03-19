@@ -1,6 +1,6 @@
 ## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=flat" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dracula" />
 
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=flat&langs_count=6" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=dracula&langs_count=6" />
 
 ### Operating System 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)

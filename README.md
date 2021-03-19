@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=dracula&langs_count=6" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=6" />
 
 ### Operating System 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)

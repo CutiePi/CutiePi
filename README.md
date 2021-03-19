@@ -34,6 +34,19 @@
 - snowboard 🏂
 - hiking ⛰
 
+## How to reach me ✉️
+You can find me on [Twitter][1], or on [Linkedin][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/qCutiePi
+[2]: https://www.linkedin.com/in/jasmin-lapointe-26a061139/
+
 <!--**CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

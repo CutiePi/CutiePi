@@ -1,9 +1,6 @@
 ## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
 
-<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=flat" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=flat&langs_count=6" />
-</div>
 
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
@@ -11,6 +8,10 @@
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞
+
+
+<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=flat&langs_count=6" />
+
 
 ### ✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile
  
@@ -23,7 +24,7 @@
 <br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=CutiePi&theme=flat&no-frame=true&margin-w=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CutiePi&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
 <!--**CutiePi/CutiePi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

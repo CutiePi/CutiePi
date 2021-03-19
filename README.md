@@ -1,4 +1,4 @@
-## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
+## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=flat" />
 

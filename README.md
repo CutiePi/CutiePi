@@ -13,7 +13,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=6" />
 
-### Operating System 
+### Operating System  
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
@@ -28,13 +28,13 @@
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
  
-### Aside coding I love:
+### Aside coding I love
 - ping-pong 🏓
 - shooter games 🔫
 - snowboard 🏂
 - hiking ⛰
 
-## How to reach me ✉️
+## How to reach me 🤙
 You can find me on [Twitter][1], or on [Linkedin][2].
 
 <!-- Icons -->

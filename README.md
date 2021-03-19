@@ -1,6 +1,9 @@
 ## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) 👋
 
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=flat" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=flat&langs_count=6" />
+</div>
 
 👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
 
@@ -16,9 +19,6 @@
 - shooter games 🔫
 - snowboard 🏂
 - hiking ⛰
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=flat&langs_count=6" />
-
 
 <br>
 

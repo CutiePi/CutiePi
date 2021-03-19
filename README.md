@@ -17,14 +17,13 @@
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-<br>
+
 ### Language 
 ![](https://img.shields.io/badge/TS-Language-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-<br>
 ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-<br>
+
 ### Framework
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)

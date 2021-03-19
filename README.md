@@ -10,7 +10,7 @@
 - [Solargraf](https://www.solargraf.com/) 🌞
 
 
-<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=flat&langs_count=6" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&layout=compact&hide=HTML,css&theme=flat&langs_count=6" />
 
 
 ### ✔JavaScript, NodeJS, React, Redux, mySQL, Redis, Material-UI, Git, Jira, Agile

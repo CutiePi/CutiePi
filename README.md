@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dracula" />
 
-👻 I'm currently working at [Enphase](https://enphase.com/en-ca) ⚡
+👻 I'm currently working at [Enphase](https://enphase.com/) ⚡
 
 ### I am a full stack developer on two of our main projects
 

@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dracula" />
 
-👻 I'm currently working at [Sofdesk](https://sofdesk.com/) ⚡
+👻 I'm currently working at [Enphase](https://enphase.com/en-ca) ⚡
 
-### I am a full stack developer on our two main projects
+### I am a full stack developer on two of our main projects
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞

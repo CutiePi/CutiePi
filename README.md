@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dracula" />
 
-👻 I'm currently working at [Enphase](https://enphase.com/) ⚡
+👻 I'm currently working at [Enphase MTL](https://enphase.com/) ⚡
 
 ### I am a full stack developer on two of our main projects
 
@@ -30,8 +30,8 @@
  
 ### Aside coding I love
 - ping-pong 🏓
-- shooter games 🔫
-- snowboard 🏂
+- [shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
+- snowboard adn skiing 🏂
 - hiking ⛰
 
 ## How to reach me 🤙

@@ -27,20 +27,16 @@
 ### Framework
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+
+
+## How to reach me 🤙
+You can find me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Jasmin-blue?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/qCutiePi)](https://twitter.com/qCutiePi), or on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Jasmin-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jasmin-lapointe-26a061139/)](https://www.linkedin.com/in/jasmin-lapointe-26a061139/)
  
 ### Aside coding I love
 - ping-pong 🏓
 - [shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
 - snowboard adn skiing 🏂
 - hiking ⛰
-
-## How to reach me 🤙
-You can find me on [Twitter][1], or on [Linkedin][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 

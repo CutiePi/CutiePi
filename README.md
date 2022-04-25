@@ -9,7 +9,6 @@
 - [Solargraf](https://www.solargraf.com/) 🌞
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 
-
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=10" />

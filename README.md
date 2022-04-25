@@ -6,38 +6,47 @@
 
 ### I am a full stack developer on these 2 projects
 
-- [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞
+- [Roofgraf](https://www.roofgraf.com/) 🏠
+
 
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=10" />
 
-### Operating Systems  (Currently Ubuntu)
-![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+### Operating Systems
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/CentOS-informational?style=flat&logo=Centos&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=Apple&logoColor=white&color=6A6C6E)
 
 ### Languages
-![](https://img.shields.io/badge/TS-Language-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TS-informational?style=flat&logo=TypeScript&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/JS-informational?style=flat&logo=JavaScript&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=CSHARP&logoColor=white&color=6A6C6E)
 
-### Frameworks
-![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+### Frameworks/Libraries
+[![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.JS&logoColor=white&color=6A6C6E)](https://github.com/nodejs/node)
+[![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=6A6C6E)](https://github.com/expressjs/express)
+[![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=6A6C6E)](https://github.com/facebook/react)
+[![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=6A6C6E)](https://github.com/reduxjs/redux)
+[![](https://img.shields.io/badge/ReactQuery-informational?style=flat&logo=ReactQuery&logoColor=white&color=6A6C6E)](https://github.com/tannerlinsley/react-query)
+[![](https://img.shields.io/badge/PaperJS-informational?style=flat&logo=PaperJS&logoColor=white&color=6A6C6E)](https://github.com/paperjs/paper.js)
+[![](https://img.shields.io/badge/ThreeJS-informational?style=flat&logo=ThreeJS&logoColor=white&color=6A6C6E)](https://github.com/mrdoob/three.js/)
+[![](https://img.shields.io/badge/Spring-informational?style=flat&logo=Spring&logoColor=white&color=6A6C6E)](https://github.com/spring-projects/spring-boot)
 
 
 ## How to reach me 🤙
 You can find me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Jasmin-blue?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/qCutiePi)](https://twitter.com/qCutiePi), or on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Jasmin-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jasmin-lapointe-26a061139/)](https://www.linkedin.com/in/jasmin-lapointe-26a061139/)
  
 ### Aside coding I love
-- ping-pong 🏓
-- [shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
-- hiking ⛰
+- Ping-pong 🏓
+- [Shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
+- Hiking ⛰
 - [Reading](https://www.goodreads.com/user/show/118355627-jasmin-lapointe) 📖 
-- snowboard & skiing 🏂
+- Snowboard & skiing 🏂
 
 <!-- Links to your social media accounts -->
 

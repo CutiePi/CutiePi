@@ -4,7 +4,7 @@
 
 👻 I'm currently working at [Enphase MTL](https://enphase.com/) ⚡
 
-### I am a full stack developer on two of our main projects
+### I am a full stack developer on these 2 projects
 
 - [Roofgraf](https://www.roofgraf.com/) 🏠
 - [Solargraf](https://www.solargraf.com/) 🌞
@@ -13,18 +13,18 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=10" />
 
-### Operating System  
+### Operating Systems  (Currently Ubuntu)
+![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/LINUX-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
-### Language 
+### Languages
 ![](https://img.shields.io/badge/TS-Language-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
-### Framework
+### Frameworks
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 
@@ -35,8 +35,9 @@ You can find me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Jasmin
 ### Aside coding I love
 - ping-pong 🏓
 - [shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
-- snowboard adn skiing 🏂
 - hiking ⛰
+- [Reading](https://www.goodreads.com/user/show/118355627-jasmin-lapointe) 📖 
+- snowboard & skiing 🏂
 
 <!-- Links to your social media accounts -->
 

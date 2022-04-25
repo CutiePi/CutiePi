@@ -35,10 +35,9 @@
 [![](https://img.shields.io/badge/PaperJS-informational?style=flat&logo=PaperJS&logoColor=white&color=6A6C6E)](https://github.com/paperjs/paper.js)
 [![](https://img.shields.io/badge/ThreeJS-informational?style=flat&logo=ThreeJS&logoColor=white&color=6A6C6E)](https://github.com/mrdoob/three.js/)
 [![](https://img.shields.io/badge/Spring-informational?style=flat&logo=Spring&logoColor=white&color=6A6C6E)](https://github.com/spring-projects/spring-boot)
-https://www.codewars.com/users/CutiePi
 
 ## How to reach me 🤙
-You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jasmin-lapointe-26a061139/)](https://www.linkedin.com/in/jasmin-lapointe-26a061139/) [![Twitter Badge](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/qCutiePi)](https://twitter.com/qCutiePi) [![Codewards Badge](https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=Blue&link=https://www.codewars.com/users/CutiePii)](https://www.codewars.com/users/CutiePi)
+You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jasmin-lapointe-26a061139/)](https://www.linkedin.com/in/jasmin-lapointe-26a061139/) [![Twitter Badge](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/qCutiePi)](https://twitter.com/qCutiePi) [![Codewards Badge](https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=Blue&link=https://www.codewars.com/users/CutiePi)](https://www.codewars.com/users/CutiePi)
  
 ### Aside coding I love
 - Ping-pong 🏓

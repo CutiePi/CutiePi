@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,css&theme=dracula&langs_count=10" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,CSS&theme=dracula&langs_count=10" />
 
 ### Operating Systems
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=6A6C6E)

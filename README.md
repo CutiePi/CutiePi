@@ -1,6 +1,6 @@
 ## Hi there, I'm Jasmin a full stack developer, living in [Montreal](https://www.google.ca/maps?q=,+Montreal,+QC,+,+ca) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
 👻 I'm currently working at [Enphase MTL](https://enphase.com/) ⚡
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,CSS&theme=dracula&langs_count=10" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,CSS&theme=dracula&langs_count=10" />
 
 ### Operating Systems
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=6A6C6E)

@@ -43,7 +43,7 @@ You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-gr
 - Ping-pong 🏓
 - [Shooter games](https://cod.tracker.gg/modern-warfare/profile/atvi/cutiepi%237173239/mp) 🔫
 - Hiking ⛰
-- Cycling 🚴
+- [Cycling/Training](https://www.strava.com/athletes/71674124) 🚴🏋️
 - [Reading](https://www.goodreads.com/user/show/118355627-jasmin-lapointe) 📖 
 - Snowboard & skiing 🏂
 

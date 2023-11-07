@@ -4,7 +4,7 @@
 
 👨🏼‍💻 I'm currently working at [Enphase MTL](https://enphase.com/) ⚡
 
-### I am a full-stack developer on our 
+### I am a full-stack developer on our projects
 
 - [Solargraf](https://www.solargraf.com/) 🌞
 - [Roofgraf](https://www.roofgraf.com/) 🏠

@@ -2,14 +2,9 @@
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" />
 
-👨🏼‍💻 I'm currently working at [Enphase MTL](https://enphase.com/) ⚡
+👨🏼‍💻 I'm currently working at [GardaWorld](https://www.garda.com/) 
 
-### I am a full-stack developer on our projects
-
-- [Solargraf](https://www.solargraf.com/) 🌞
-- [Roofgraf](https://www.roofgraf.com/) 🏠
-
-<br>
+### I am a full-stack developer
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,CSS&theme=dracula&langs_count=10" />
 

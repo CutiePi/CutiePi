@@ -50,7 +50,7 @@ You can find me here [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-gr
 
 ### Really enjoy traveling, here's the countries I've been to so far
 
-🇹🇼🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪🇦🇹🇭🇺🇨🇿🇲🇽🇨🇺🇨🇦🇺🇸
+🇯🇵🇹🇼🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪🇦🇹🇭🇺🇨🇿🇲🇽🇨🇺🇨🇦🇺🇸
 
 
 <!-- Links to your social media accounts -->

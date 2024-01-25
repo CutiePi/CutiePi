@@ -4,8 +4,6 @@
 
 👨🏼‍💻 I'm currently working at [GardaWorld](https://www.garda.com/) 
 
-### I am a full-stack developer
-
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CutiePi&hide=HTML,CSS&theme=dracula&langs_count=10" />
 
 ### Operating Systems

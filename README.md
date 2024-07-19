@@ -9,10 +9,10 @@
 
 
 ### Operating Systems
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
-![](https://img.shields.io/badge/CentOS-informational?style=flat&logo=Centos&logoColor=white&color=6A6C6E)
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d4)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=Apple&logoColor=white&color=6A6C6E)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d4)
+![](https://img.shields.io/badge/CentOS-informational?style=flat&logo=Centos&logoColor=white&color=6A6C6E)
 
 ### Languages
 ![](https://img.shields.io/badge/TS-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)

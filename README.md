@@ -46,7 +46,6 @@
 
 ## How to reach me 🤙
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jasmin-lapointe-26a061139/)](https://www.linkedin.com/in/jasmin-lapointe-26a061139/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=Twitter&logoColor=Blue&link=https://twitter.com/qCutiePi)](https://twitter.com/qCutiePi)
 [![Codewards Badge](https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=Blue&link=https://www.codewars.com/users/CutiePi)](https://www.codewars.com/users/CutiePi)
  
 ### Aside from coding I love

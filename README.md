@@ -32,7 +32,8 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cutiepi&theme=dracula" alt="cutiepi" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cutiepi" alt="cutiepi" /></a> </p> -->
+
 
 <div align="left">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutiepi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cutiepi" /></p>

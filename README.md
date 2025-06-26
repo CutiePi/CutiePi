@@ -67,7 +67,7 @@
 - Snowboard & skiing 🏂
 
 
-### Really enjoy traveling, here's the countries I've been to so far
+### Traveling is a passion, here's some countries I've been to so far
 
 🇹🇨🇯🇵🇪🇸🇹🇼🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪🇦🇹🇭🇺🇨🇿🇲🇽🇨🇺🇨🇦🇺🇸
 

@@ -135,7 +135,7 @@ GPA: 3.43 / 4.3
 ## Languages
 - **English** – Native  
 - **French** – Native  
-- **Spanish** – Intermediate  
+- **Spanish** – beginner  
 
 ---
 

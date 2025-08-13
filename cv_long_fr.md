@@ -133,9 +133,9 @@ Moyenne : 3,43 / 4,3
 ---
 
 ## Langues
-- **Anglais** – Langue maternelle  
 - **Français** – Langue maternelle  
-- **Espagnol** – Intermédiaire  
+- **Anglais** – Parfaitement bilingue
+- **Espagnol** – Débutant  
 
 ---
 

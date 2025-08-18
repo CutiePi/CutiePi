@@ -36,7 +36,7 @@
 
 
 <div align="left">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutiepi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cutiepi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutiepi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_languages=html" alt="cutiepi" /></p>
 
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CutiePi&count_private=true&show_icons=true&hide_title=true&hide=stars,contribs&theme=dracula" alt="cutiepi" /></p>
